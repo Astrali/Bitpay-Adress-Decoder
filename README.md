@@ -11,6 +11,9 @@ bitpay-decode.au3 and bitpay-decode.exe are made by me
 "Astrali" 
 and are free to use/change/distribute but is not meant to be sold in any way!
 
+Release version can be downloaded here:
+https://github.com/Astrali/Bitpay-Adress-Decoder/releases
+
 Please leave me a message if you plan to use this in your own projects :)
 
 Greetings - Astrali
